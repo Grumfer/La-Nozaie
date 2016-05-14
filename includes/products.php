@@ -15,7 +15,7 @@
 </p>
 <h3>h3. Bootstrap heading</h3>
 <p>
-  <span>AZizekjrth i qzeriuth zierh ierghlsdgb iurtblzeurhtnzerty</span><br/>
+  <span>AZizekjrth i qzerith zierh ierghlsdgb iurtblzeurhtnzerty</span><br/>
   <span>AZizekjrth i qzeriuth zierh ierghlsdgb iurtblzeurhtnzerty</span>
 </p>
 <p>
