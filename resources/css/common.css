@@ -1,0 +1,78 @@
+/**
+	HEADER
+**/
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
+}
+.table{
+	display: table;
+}
+
+.table-cell{
+	display: table-cell;
+}
+
+/********************************
+* FONTS
+********************************/
+@font-face {
+    font-family: Vollkorn-bold;
+    src: url(../../resources/fonts/Vollkorn-Bold.otf);
+}
+
+@font-face {
+    font-family: Vollkorn;
+    src: url(../../resources/fonts/Vollkorn-Regular.otf);
+}
+
+body{
+	font-family: Vollkorn;
+}
+
+h1, .h1{
+	font-size: 45px;
+}
+
+h2, .h2{
+	font-size: 35px;
+}
+
+/********************************
+* SPACES
+********************************/
+
+.no-margin{
+	margin: 0px;
+}
+.margin-auto{
+	margin: auto;
+}
+.margin-top-4{
+	margin-top: -4px;
+}
+.no-padding{
+	padding: 0px;
+}
+.no-padding-side{
+	padding-right: 0px;
+	padding-left: 0px;
+}
+.no-padding-right{
+	padding-right: 0px;
+}
+.padd-top2{
+	padding-top: 2px;
+}
+.padd-top15{
+	padding-top: 15px;
+}
+.padd-bot15{
+	padding-bottom: 15px;
+}
+.padd-side15{
+	padding-right: 15px;
+	padding-left: 15px;
+}
